@@ -3,7 +3,7 @@
  <tr><td><a href="https://github.com/Franciiscodev/Franciiscodev/blob/main/README.md"> 🇧🇷 Português</a></td></tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1200&random=false&width=660&lines=Hey%2C+How++you+doin'+%3F;I'm+a+fullstack+programmer+and+can+call+me+Troli;and+...+It's+a+pleasure+to+have+you+here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1200&random=false&width=660&lines=Hey%2C+What's++up+%3F;I'm+a+frontend+developer+and+can+call+me+Francisco;and+...+It's+a+pleasure+to+have+you+here)](https://git.io/typing-svg)
 
 ---
 
@@ -21,9 +21,9 @@ I'm 26 years old, currently living in Cork/Ireland. Passionate about technology.
 
 </br>
 
-🔭 I'm currently studying Java Scrypt
+🔭 I'm currently learning JavaScript
 
-🌱 At the moment I'm learning english in Ireland
+🌱 At the moment I'm doing an english intership in Ireland
 
 😄 Language: English Upper intermediate (B2) and Portuguese Fluent (Mother language)
 
